@@ -1,0 +1,28 @@
+select {
+    width: 200px;
+    height: 40px;
+}
+
+input {
+    width: 200px;
+    height: 34px;
+    color:DarkBlue;
+}
+
+#submit {
+    height: 30px;
+}
+
+.style {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+
+.style1 {
+    padding-right: 5px;
+    display: inline-block;
+    font-size: 30px;
+    color: darkBlue;
+}
